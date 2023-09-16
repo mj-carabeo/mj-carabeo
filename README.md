@@ -8,6 +8,8 @@ The programming language I mainly use is Java:
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
+
+
 Here are my certificates:
 SQL and Relational Databases 101 - https://courses.cognitiveclass.ai/certificates/8b4e70daad7142bcb0f3b1f68d19caf6
 Oracle Cloud Infrastructure 2022 Certified Foundations Associate - https://catalog-education.oracle.com/pls/certview/sharebadge?id=71315D8A9BDF515D21EF357DF73F43C9B51E8D46E7DA8E9A843D18CD719AE42E&fbclid=IwAR19mbxfGpkrw5JViD1s0W_bmhZfvVuSq-dVJsWGPKiqaIVqARnfLZGrS-Q
