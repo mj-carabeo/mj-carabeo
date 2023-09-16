@@ -15,5 +15,4 @@ Here are my certificates:
 
 - Oracle Cloud Infrastructure 2022 Certified Foundations Associate - https://catalog-education.oracle.com/pls/certview/sharebadge?id=71315D8A9BDF515D21EF357DF73F43C9B51E8D46E7DA8E9A843D18CD719AE42E&fbclid=IwAR19mbxfGpkrw5JViD1s0W_bmhZfvVuSq-dVJsWGPKiqaIVqARnfLZGrS-Q
 
-You can contact me by email: 
-meldrick.carabeo@neu.edu.ph
+You can contact me by email: meldrick.carabeo@neu.edu.ph
