@@ -45,12 +45,14 @@ Here are my certificates:
 
 &emsp; &emsp; https://github.com/mj-carabeo/ObserverPattern.git
 
-**Data Visualization Tools:**  PowerBI Desktop, Tableau Public
+**Skill Set**
 
-**Programming Languages:** Java, Python
+- **Data Visualization Tools:**  PowerBI Desktop, Tableau Public
 
-**DBMS:** DB2
+- **Programming Languages:** Java, Python
 
-**Dev Tools:** JasperSoft Studio, Lucidchart, Eclipse
+- **DBMS:** DB2
+
+- **Dev Tools:** JasperSoft Studio, Lucidchart, Eclipse
 
 You can contact me by email: meldrick.carabeo@neu.edu.ph
