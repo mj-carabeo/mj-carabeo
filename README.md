@@ -1,6 +1,6 @@
 # Meldrick Carabeo
 
-**'New Era University Student'**
+**'New Era University Graduate'**
 
 My name is Meldrick Jake R. Carabeo. I am 22 years old and I am from the Philippines. I aim to continuously improve myself and keep on growing my knowledge because like in the world of technology, everything keeps on evolving. I graduated with a Bachelor's Degree in Computer Science and along the way have earned myself a few certifications. You can see my achievements and ceritifications below. I look forward to learning a lot from here.
 
